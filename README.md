@@ -100,7 +100,7 @@
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/atharv_s16">
+<a href="https://linkedin.com/in/atharv-s16">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
