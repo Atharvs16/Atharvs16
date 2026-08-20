@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharv</h1>
+<h1 align="center">Hi, I'm Atharv</h1>
 <h3 align="center">Aspiring Software Development Engineer from India 🇮🇳</h3>
 
 <p align="center">
@@ -7,18 +7,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Final Year **B.Tech (Electronics & Telecommunication)**
-- 💼 Aspiring **Software Development Engineer**
-- 🌱 Currently learning **Data Structures & Algorithms in C++**
-- ⚛️ Building **Full Stack Applications**
-- 🎯 Goal: Land an SDE role and keep growing as a software engineer
-- 🚀 Passionate about solving problems and building impactful products
+- Final Year **B.Tech (Electronics & Telecommunication)**
+- Aspiring **Software Development Engineer**
+- Currently learning **Data Structures & Algorithms in C++**
+- Building **Full Stack Applications**
+- Goal: Land an SDE role and keep growing as a software engineer
+- Passionate about solving problems and building impactful products
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - ✅ C++ Programming
 - ✅ Data Structures & Algorithms
@@ -65,49 +65,36 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Atharvs16&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=Atharvs16&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvs16&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://github.com/Atharvs16">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvs16&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📌 Project 1 | Full Stack Web Application |
-| 📌 Project 2 | REST API using Node.js |
-| 📌 Project 3 | DSA Practice Repository |
-| 📌 Project 4 | Portfolio Website |
+| Project 1 | Full Stack Web Application |
+| Project 2 | REST API using Node.js |
+| Project 3 | DSA Practice Repository |
+| Project 4 | Portfolio Website |
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- ✅ Master DSA
-- ✅ Build 5 production-ready projects
-- ✅ Contribute to Open Source
-- ✅ Strengthen Backend Development
-- 🎯 Crack an SDE role
+- Master DSA
+- Build 5 production-ready projects
+- Contribute to Open Source
+- Strengthen Backend Development
+- Crack an SDE role
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p>
 <a href="https://linkedin.com/in/atharv-s16">
@@ -126,5 +113,5 @@
 </p>
 
 <h3 align="center">
-✨ Thanks for visiting my profile! ✨
+Thanks for visiting my profile!
 </h3>
